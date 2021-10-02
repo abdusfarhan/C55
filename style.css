@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(violet, #212121);
+}
+
+
+
+
+img {
+    width: px;
+    height: 400px
+}
+#reasontext{
+    font-size: 30px;
+}
+#album4{
+    width: 400px;
+    height: 600px;
+}
